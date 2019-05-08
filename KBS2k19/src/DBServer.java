@@ -1,5 +1,5 @@
 public class DBServer extends Component {
-    public DBServer(String naam, String type, int beschikbaarheid, int kosten) {
-        super(naam, type, beschikbaarheid, kosten);
+    public DBServer(String naam, int beschikbaarheid, int kosten) {
+        super(naam, "DBServer", beschikbaarheid, kosten);
     }
 }
