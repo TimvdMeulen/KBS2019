@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3b6f415-4ffe-446c-82f2-02bbdd52a376" name="Default Changelist" comment="" />
+    <list default="true" id="c3b6f415-4ffe-446c-82f2-02bbdd52a376" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Applicatie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Applicatie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/ApplicatieTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/DBServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Firewall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Internet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Loadbalancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Panel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Applicatie/Webserver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Applicatie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplicatieTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DBServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firewall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Internet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loadbalancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Panel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Webserver.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="715" />
@@ -44,8 +68,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -99,16 +123,18 @@
       <updated>1557300284440</updated>
       <workItem from="1557300285942" duration="4967000" />
       <workItem from="1557305741521" duration="96000" />
+      <workItem from="1557306342831" duration="37000" />
+      <workItem from="1557306398199" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5063000" />
+    <option name="totallyTimeSpent" value="5669000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="713" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16801292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17043619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -176,7 +202,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Applicatie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="135">
           <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />

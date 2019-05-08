@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee0fa47e-a2b6-4da1-aec2-fbb3f6033573" name="Default Changelist" comment="" />
+    <list default="true" id="7cd40675-fbf6-4401-8b49-4701ef24954a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/Applicatie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Applicatie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/ApplicatieTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/DBServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Firewall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Internet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Loadbalancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Panel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/out/production/Applicatie/Webserver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Applicatie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/ApplicatieTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/DBServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Firewall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Internet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Loadbalancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Panel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Applicatie/src/Webserver.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,34 +34,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Applicatie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="715" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="KBS2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KBS2019" type="462c0819:PsiDirectoryNode" />
+              <item name="KBS2k19 kopie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KBS2k19 kopie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KBS2k19 kopie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KBS2k19 kopie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,20 +105,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee0fa47e-a2b6-4da1-aec2-fbb3f6033573" name="Default Changelist" comment="" />
-      <created>1557305847351</created>
+      <changelist id="7cd40675-fbf6-4401-8b49-4701ef24954a" name="Default Changelist" comment="" />
+      <created>1557306952896</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557305847351</updated>
-      <workItem from="1557305848833" duration="284000" />
+      <updated>1557306952896</updated>
+      <workItem from="1557306954116" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284000" />
+    <option name="totallyTimeSpent" value="12000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="715" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="713" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -115,11 +157,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Applicatie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
